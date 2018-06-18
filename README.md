@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ChatAppDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
@@ -29,4 +28,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # chat-app-demo
 A chat app using angular and socket io
->>>>>>> 27f55fb11152e125e0490cfe66dacf6d2f7ffeeb
