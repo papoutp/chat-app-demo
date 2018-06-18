@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatAppDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# chat-app-demo
+A chat app using angular and socket io
+>>>>>>> 27f55fb11152e125e0490cfe66dacf6d2f7ffeeb
